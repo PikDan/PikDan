@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @PikDan
-- 👀 I’m interested in ...
+- 👀 I’m interested in programming development
 - 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: tg @dendidany
 
 <!---
 PikDan/PikDan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
