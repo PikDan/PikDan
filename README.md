@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @PikDan
-- 👀 I’m interested in programming development
+- 👋 Hi, I’m @Danya
+- 👀 I’m interested in backend development
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me: tg @Dendidany
 
