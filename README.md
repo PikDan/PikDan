@@ -2,9 +2,6 @@
   <img src="assets/header.svg" width="100%" alt="Danya – Backend developer">
 </p>
 
-<p align="center">
-  <b>English</b> · <b>Русский</b> – every section is in both languages / каждый раздел на двух языках
-</p>
 
 ## 👋 About · Обо мне
 
